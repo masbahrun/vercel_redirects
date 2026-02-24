@@ -1,0 +1,11 @@
+{
+  "redirects": [{
+      "source": "/",
+      "destination": "https://www.nawala.link",
+      "permanent": true
+    },{
+      "source": "/:slug",
+      "destination": "https://yulafqmjwgmbqtdggtqt.supabase.co/functions/v1/redirect/:slug",
+      "permanent": true
+    }]
+}
