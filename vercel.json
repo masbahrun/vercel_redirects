@@ -5,7 +5,7 @@
       "permanent": true
     },{
       "source": "/:slug",
-      "destination": "https://pwcjcdbhzckfnimnpnyo.supabase.co/functions/v1/redirect/:slug",
+      "destination": "https://yulafqmjwgmbqtdggtqt.supabase.co/functions/v1/redirect/:slug",
       "permanent": true
     }]
 }
